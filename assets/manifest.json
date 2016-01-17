@@ -2,6 +2,21 @@
   "dependencies": {
     "main.js": {
       "files": [
+        "scripts/jquery/jquery.mobile.custom.min.js",
+        "scripts/bootstrap/bootstrap.min.js",
+        "scripts/plugins/modernizr/modernizr.custom.min.js",
+        "scripts/plugins/hover_dropdown/twitter-bootstrap-hover-dropdown.min.js",
+        "scripts/plugins/retina/retina.min.js",
+        "scripts/plugins/knob/jquery.knob.js",
+        "scripts/plugins/isotope/jquery.isotope.min.js",
+        "scripts/plugins/isotope/jquery.isotope.sloppy-masonry.min.js",
+        "scripts/plugins/validate/jquery.validate.min.js",
+        "scripts/plugins/flexslider/jquery.flexslider.min.js",
+        "scripts/plugins/countdown/countdown.js",
+        "scripts/plugins/nivo_lightbox/nivo-lightbox.min.js",
+        "scripts/plugins/cycle/jquery.cycle.all.min.js",
+        "scripts/_theme.js",
+        "scripts/_portfolio.js",
         "scripts/main.js"
       ],
       "main": true
@@ -22,6 +37,6 @@
     }
   },
   "config": {
-    "devUrl": "http://example.dev"
+    "devUrl": "http://vlp.dev.com"
   }
 }
